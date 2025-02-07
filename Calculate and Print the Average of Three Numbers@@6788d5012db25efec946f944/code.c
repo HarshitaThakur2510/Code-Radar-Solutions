@@ -2,7 +2,7 @@
 void main(){
     int a,b,c;
     scanf("%d %d %d",&a,&b,&c);
-    int d;
+    float d;
     d=a+b+c;
     printf("%.2f", d/3);
 
