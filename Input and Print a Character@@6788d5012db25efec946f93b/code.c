@@ -1,6 +1,7 @@
 #include <stdio.h>
-void main(){
+int main(){
     char n;
     scanf("%s",&n);
     printf("%s",n);
+    return 0;
 }
