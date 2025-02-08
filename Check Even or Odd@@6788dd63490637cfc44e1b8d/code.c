@@ -7,6 +7,6 @@ if(n%2==0){
 
 }
 else{
-    printf("odd");
+    printf("Odd");
 }
 }
