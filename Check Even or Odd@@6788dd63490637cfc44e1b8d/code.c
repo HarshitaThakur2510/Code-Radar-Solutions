@@ -2,11 +2,11 @@
 void main(){
 int n;
 scanf("%d",&n);
-if(2%n==0){
+if(n%2==0){
     printf("Even");
 
 }
 else{
-    printf("False");
+    printf("odd");
 }
 }
