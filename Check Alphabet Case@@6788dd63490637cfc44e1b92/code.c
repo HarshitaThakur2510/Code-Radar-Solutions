@@ -11,3 +11,4 @@ void main(){
     else{
         printf("Not an alphabet");
     }
+}
