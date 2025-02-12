@@ -1,12 +1,13 @@
 #include<stdio.h>
 void main(){
-    char a;
-    for( char i in "abcdefghijklmnopqrstuvwxyz)"{
-        if(a==i){
-            printf("Uppercase");
-        }
-        else{
-            printf("Lowercase");
-        }
+    char ch;
+    scanf("%c",&ch);
+    if(ch>=A && ch<=Z){
+        printf("Uppercase");
     }
-}
+    else if(ch>=a && ch<=z){
+        printf("Lowercase");
+    }
+    else{
+        printf("Not an alphabet");
+    }
