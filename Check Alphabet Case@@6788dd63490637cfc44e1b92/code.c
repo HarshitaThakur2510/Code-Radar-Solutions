@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
     char a;
-    for i in "abcdefghijklmnopqrstuvwxyz"{
+    for( char i in "abcdefghijklmnopqrstuvwxyz)"{
         if(a==i){
             printf("Uppercase");
         }
