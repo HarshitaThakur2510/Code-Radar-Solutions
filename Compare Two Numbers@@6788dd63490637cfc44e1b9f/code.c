@@ -1,6 +1,6 @@
 // Your code here...
 #include<stdio.h>
-void mian(){
+void main(){
     int a,b;
     scanf("%d %d",&a,&b);
     if(a==b){
