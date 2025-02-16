@@ -10,8 +10,9 @@ void main(){
         break;
         case 3: printf("wednesday");
         break;
-        case 4: printf("Friday");
+        case 4: printf("Thursday");
         break;
+        case 5:printf("Friday");
         case 6: printf("Saturday");
         break;
         case 7: printf("Sunday");
