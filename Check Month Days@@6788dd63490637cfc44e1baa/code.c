@@ -4,29 +4,29 @@ void main(){
     int a;
     scanf("%d",&a);
     switch(a){
-        case 1:printf(31);
+        case 1:printf("%d",31);
     break;
-        case 2:printf(28);
+        case 2:printf("%d",28);
         break;
- case 3:printf(31);
+    case 3:printf("%d",31);
     break;
-     case 4:printf(30);
+     case 4:printf("%d",30);
     break;
-     case 5:printf(31);
+     case 5:printf("%d",31);
     break;
-     case 6:printf(30);
+     case 6:printf("%d",30);
     break;
-     case 7:printf(31);
+     case 7:printf("%d",31);
     break;
-     case 8:printf(31);
+     case 8:printf("%d",31);
     break;
-     case 9:printf(30);
+     case 9:printf("%d",30);
     break;
-     case 10:printf(31);
+     case 10:printf("%d",31);
     break;
-     case 11:printf(30);
+     case 11:printf("%d",30);
     break;
-     case 12:printf(31);
+     case 12:printf("%d",31);
     break;
 
     }
