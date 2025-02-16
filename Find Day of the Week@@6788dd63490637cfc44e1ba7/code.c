@@ -18,5 +18,7 @@ void main(){
         break;
         case 7: printf("Sunday");
         break;
+        default: printf("Invalid");
+        break;
     }
 }
