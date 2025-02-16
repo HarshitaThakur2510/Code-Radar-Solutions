@@ -8,7 +8,7 @@ void main(){
         break;
         case '-':printf("%d",a-b);
         break;
-        case '*':printf("a*b");
+        case '*':printf("%d",a*b);
         break;
         case '/':printf("%d",a/b);
         break;
