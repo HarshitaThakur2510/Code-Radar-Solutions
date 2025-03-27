@@ -2,7 +2,7 @@
 #include<stdio.h>
 void main(){
 int n,a;
-scanf("%d".&n);
+scanf("%d",&n);
 int arr[n];
 int arr1[n];
 
