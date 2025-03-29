@@ -8,7 +8,7 @@ void main(){
             for(int j=0;j<n;j++){
                 printf("*");
             }
-            printf(\n);
+            printf("\n");
         if (i<n||i>0){
             for(int k=0;k<n;k++){
                 if(k==0||k==n){
