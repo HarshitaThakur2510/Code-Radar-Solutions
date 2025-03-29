@@ -1,0 +1,15 @@
+// Your code here...
+#include<stdio.h>
+void main(){
+    int n;
+    scanf("%d",&n);
+    for(int i=1;i<=0;i++){
+        for(j=1;j<n-i;j++){
+            printf(" ");
+        }
+        for(int k=0;k<2*i-1;k++){
+            printf("%d ",k);
+        }
+        printf("\n");
+    }
+}
