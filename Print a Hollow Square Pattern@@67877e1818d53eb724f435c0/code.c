@@ -10,7 +10,7 @@ void main(){
             }
         if (i<n||i>0){
             for(int k=0;k<n;k++){
-                if(k=0||k=n){
+                if(k==0||k==n){
                     printf("*");
                 }
                 else{
