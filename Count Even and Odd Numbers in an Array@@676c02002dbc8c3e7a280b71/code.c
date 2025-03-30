@@ -13,7 +13,7 @@ void main(){
             even++;
         }
         else{
-            eodd++;
+            odd++;
         }
 
     }
